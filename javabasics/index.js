@@ -1,3 +1,3 @@
-let Name = "ganapathi";
+nlet Name = "ganapathi pernei";
 
 console.log(Name);
